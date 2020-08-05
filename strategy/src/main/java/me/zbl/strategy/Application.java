@@ -32,10 +32,10 @@ public class Application {
     BusinessMan man = new BusinessMan(new TransportationAirplane());
     man.transport();
 
-    man.changeStrategy(new TransportationTrain());
+    man.changetStrategy(new TransportationTrain());
     man.transport();
 
-    man.changeStrategy(new TransportationVehicle());
+    man.changetStrategy(new TransportationVehicle());
     man.transport();
   }
 }
