@@ -74,7 +74,7 @@ public class WeaponShop {
     return Collections.unmodifiableList(shelfB);
   }
 
-  public void enumrateShelves() {
+  public void enumerateShelves() {
     enumerateShelfA();
     enumerateShelfB();
   }
