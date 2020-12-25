@@ -24,7 +24,7 @@
 package me.zbl.chain;
 
 /**
- * Chian of Responsibility
+ * Chain of Responsibility
  */
 public class Application {
 
