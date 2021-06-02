@@ -1,4 +1,4 @@
-package me.trevor.decorator2;
+package trevor.bridge;
 
 public class Gray implements Color {
     public void bepaint(String shape) {

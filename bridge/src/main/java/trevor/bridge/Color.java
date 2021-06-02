@@ -1,4 +1,4 @@
-package me.trevor.decorator2;
+package trevor.bridge;
 
 /**
  * 形状接口

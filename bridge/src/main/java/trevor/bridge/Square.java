@@ -1,4 +1,4 @@
-package me.trevor.decorator2;
+package trevor.bridge;
 
 public class Square extends Shape{
     public void draw() {

@@ -1,6 +1,7 @@
-package me.trevor.decorator2;
+package trevor.bridge;
 
 public class Application {
+    // 桥接模式
     public static void main(String[] args) {
         //白色
         Color white = new White();
