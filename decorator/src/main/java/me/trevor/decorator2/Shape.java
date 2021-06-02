@@ -1,4 +1,4 @@
-package trevor.decorator;
+package me.trevor.decorator2;
 
 /**
  * 形状类：该类为一个抽象类，主要提供画形状的方法

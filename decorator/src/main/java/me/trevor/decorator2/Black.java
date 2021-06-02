@@ -1,4 +1,4 @@
-package trevor.decorator;
+package me.trevor.decorator2;
 
 public class Black implements Color {
     public void bepaint(String shape) {

@@ -1,4 +1,4 @@
-package trevor.decorator;
+package me.trevor.decorator2;
 
 public class Circle extends Shape {
     @Override
