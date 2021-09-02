@@ -49,6 +49,7 @@
         <module>abstract-factory</module>
         <module>adapter</module>
         <module>factory-method</module>
+        <module>filter</module>
         <module>prototype</module>
         <module>singleton</module>
         <module>bridge</module>
